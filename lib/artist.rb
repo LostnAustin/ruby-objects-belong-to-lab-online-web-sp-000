@@ -3,9 +3,9 @@ require 'pry'
 class Artist
   attr_accessor :song
 
-
+  binding.pry
   def initialize(song)
-    binding.pry
+  
     @song = song
     end
 end
