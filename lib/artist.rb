@@ -1,6 +1,6 @@
 require 'pry'
 
-class Artist
+class Artists
   attr_accessor :song, :name
 
 #  binding.pry
