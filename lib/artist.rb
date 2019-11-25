@@ -1,7 +1,7 @@
 require 'pry'
 
 class Artist
-  attr_accessor :song
+  attr_accessor :song, :name
 
   binding.pry
   def initialize(song)
