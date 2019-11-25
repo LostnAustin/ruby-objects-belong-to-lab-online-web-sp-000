@@ -6,6 +6,6 @@ class Artist
 #  binding.pry
   def initialize(name)
     @name = name
-    Song.new
+    Song.name
     end
 end
