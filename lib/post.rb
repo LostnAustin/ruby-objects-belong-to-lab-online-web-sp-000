@@ -1,7 +1,7 @@
 class Posts
-#  attr_accessor :title, :author
+  attr_accessor :title
 
-  def initialize
-
- end
+  def title
+    @title
+  end
 end
