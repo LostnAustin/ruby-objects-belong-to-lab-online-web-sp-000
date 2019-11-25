@@ -5,6 +5,7 @@ class Post
       @author
 
     end
+    
   def title
     @title
   end
