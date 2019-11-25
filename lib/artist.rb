@@ -5,7 +5,7 @@ class Artist
 
   binding.pry
   def initialize(song)
-  
+
     @song = song
     end
 end
